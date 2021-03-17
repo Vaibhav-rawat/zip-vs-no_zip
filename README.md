@@ -1,1 +1,1 @@
-# This program shows that do we really need Zip method in python and if yes how well it reduces the length of our code
+### This program shows that how beautifully zip method in python reduces the code length and provide us a pythonic approch to solve the problem
